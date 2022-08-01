@@ -1,4 +1,4 @@
-# Challenge-ONE-Portf-lio
+# Challenge-ONE-Portfolio
 ## Challenge Front End - Construção de um protfólio
 
 Bem-vindas e bem-vindos ao primeiro desafio do Challenge Front End!
